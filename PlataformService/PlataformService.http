@@ -1,0 +1,6 @@
+@PlataformService_HostAddress = http://localhost:5222
+
+GET {{PlataformService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
