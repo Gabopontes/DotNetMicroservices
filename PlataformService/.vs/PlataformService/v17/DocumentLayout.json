@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\plataformservice\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|solutionrelative:models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\plataformservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\plataformservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:09:30.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T23:05:58.007Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Platform.Cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Models\\Platform.Cs",
+              "RelativeDocumentMoniker": "Models\\Platform.Cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Models\\Platform.Cs",
+              "RelativeToolTip": "Models\\Platform.Cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T22:59:40.277Z",
+              "EditorCaption": ""
             }
           ]
         }
