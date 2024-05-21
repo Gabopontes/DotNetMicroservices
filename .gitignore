@@ -18,3 +18,7 @@ bin-release/
 # information for Eclipse / Flash Builder.
 /.vs
 /PlataformService/.vs
+/CommandsService/.vs/CommandsService/v17/.suo
+/CommandsService/.vs/CommandsService/FileContentIndex/eb5a18f1-aa49-4380-892b-db188b3d6e75.vsidx
+/CommandsService/.vs/CommandsService/FileContentIndex/1707c8bf-8c8e-405b-8f7d-e2bf47a13721.vsidx
+/CommandsService/.vs/CommandsService/DesignTimeBuild/.dtbcache.v2
