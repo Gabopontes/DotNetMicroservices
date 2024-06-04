@@ -1,18 +1,41 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-    name: platforms-depl
+  name: platforms-depl
 spec:
-   replicas: 1
-   selector:
-        matchLabels:
-            app: plataformservice
-   template:
-        metadata:
-            labels:
-                app: plataformservice
-        spec:
-            containers:
-                -   name: plataformservice
-                    image: gabopontes/plataformservice:latest
-       
+  replicas: 1
+  selector:
+    matchLabels:
+      app: plataformservice
+  template:
+    metadata:
+      labels:
+        app: plataformservice
+    spec:
+      containers:
+      - name: plataformservice
+        image: gabopontes/plataformservice:latest
+        ports:
+        - containerPort: 8080
+        volumeMounts:
+        - name: config-volume
+          mountPath: /app/appsettings.Production.json
+          subPath: appsettings.Production.json
+      volumes:
+      - name: config-volume
+        configMap:
+          name: appsettings-config
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: platforms-clusterip-srv
+spec:
+  type: ClusterIP
+  selector:
+    app: plataformservice
+  ports:
+  - name: plataformservice
+    protocol: TCP
+    port: 8080
+    targetPort: 8080
