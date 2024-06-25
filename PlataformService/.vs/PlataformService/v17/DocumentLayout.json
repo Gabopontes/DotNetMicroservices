@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\plataformservice\\data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|solutionrelative:data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\plataformservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\plataformservice\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|solutionrelative:appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrepDb.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Data\\PrepDb.cs",
+              "RelativeDocumentMoniker": "Data\\PrepDb.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Data\\PrepDb.cs",
+              "RelativeToolTip": "Data\\PrepDb.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBgAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T23:56:16.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "appsettings.Production.json",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\appsettings.Production.json",
+              "RelativeToolTip": "appsettings.Production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T23:43:24.81Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAADQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T22:50:20.837Z",
               "EditorCaption": ""

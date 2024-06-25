@@ -12,18 +12,18 @@ var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 var configuration = builder.Configuration;
 
-if (app.Environment.IsProduction())
+if (builder.Environment.IsProduction())
 {
-    Console.WriteLine("--> Using SqlServer Db...");
+    Console.WriteLine("--> Using SQL Db...");
     builder.Services.AddDbContext<AppDbContext>(opt =>
-        opt.UseSqlServer(builder.Configuration.GetConnectionString("PlatfomrsConn")));
+        opt.UseSqlServer(builder.Configuration.GetConnectionString("PlatformsConn")));
 }
 else
 {
     Console.WriteLine("--> Using InMem Db...");
     builder.Services.AddDbContext<AppDbContext>(opt =>
-    opt.UseInMemoryDatabase("InMem"));
-};
+        opt.UseInMemoryDatabase("InMem"));
+}
 
 builder.Services.AddScoped<IPlatformRepo, PlatformRepo>();
 
