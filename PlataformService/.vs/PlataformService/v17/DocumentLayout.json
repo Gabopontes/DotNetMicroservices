@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\plataformservice\\data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|solutionrelative:data\\prepdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\plataformservice\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|solutionrelative:appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\plataformservice\\migrations\\20240625230907_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|solutionrelative:migrations\\20240625230907_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\plataformservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\plataformservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\plataformservice\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|solutionrelative:appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\plataformservice\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|solutionrelative:data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\plataformservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\plataformservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\plataformservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\plataformservice\\plataformservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{956B7EA0-191D-4025-90D4-431022E0D9BB}|PlataformService.csproj|solutionrelative:plataformservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,47 +46,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PrepDb.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Data\\PrepDb.cs",
-              "RelativeDocumentMoniker": "Data\\PrepDb.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Data\\PrepDb.cs",
-              "RelativeToolTip": "Data\\PrepDb.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwBgAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-17T23:56:16.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.Production.json",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\appsettings.Production.json",
-              "RelativeDocumentMoniker": "appsettings.Production.json",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\appsettings.Production.json",
-              "RelativeToolTip": "appsettings.Production.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-17T23:43:24.81Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "20240625230907_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Migrations\\20240625230907_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240625230907_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Migrations\\20240625230907_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240625230907_InitialCreate.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T23:36:02.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Data\\AppDbContextFactory.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:08:13.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T22:46:54.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T22:32:45.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:32:33.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T22:29:09.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlataformService.csproj",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\PlataformService.csproj",
+              "RelativeDocumentMoniker": "PlataformService.csproj",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\PlataformService.csproj",
+              "RelativeToolTip": "PlataformService.csproj",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T22:23:53.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "appsettings.Production.json",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\appsettings.Production.json",
+              "RelativeToolTip": "appsettings.Production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T23:43:24.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\PlataformService\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAAADQAAAARAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAADwvz8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T22:50:20.837Z",
               "EditorCaption": ""

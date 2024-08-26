@@ -13,18 +13,8 @@ spec:
         app: plataformservice
     spec:
       containers:
-      - name: plataformservice
-        image: gabopontes/plataformservice:latest
-        ports:
-        - containerPort: 8080
-        volumeMounts:
-        - name: config-volume
-          mountPath: /app/appsettings.Production.json
-          subPath: appsettings.Production.json
-      volumes:
-      - name: config-volume
-        configMap:
-          name: appsettings-config
+        - name: plataformservice
+          image: gabopontes/plataformservice:latest
 ---
 apiVersion: v1
 kind: Service
@@ -39,3 +29,7 @@ spec:
     protocol: TCP
     port: 8080
     targetPort: 8080
+  - name: plafromgrpc
+    protocol: TCP
+    port: 666
+    targetPort: 666

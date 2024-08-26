@@ -9,14 +9,14 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 
-var app = builder.Build();
+
 var configuration = builder.Configuration;
 
 if (builder.Environment.IsProduction())
 {
     Console.WriteLine("--> Using SQL Db...");
     builder.Services.AddDbContext<AppDbContext>(opt =>
-        opt.UseSqlServer(builder.Configuration.GetConnectionString("PlatformsConn")));
+        opt.UseSqlServer(configuration.GetConnectionString("PlatformsConn")));
 }
 else
 {
@@ -38,7 +38,7 @@ builder.Services.AddSwaggerGen();
 
 Console.WriteLine($"Command Service Endpoint {configuration["CommanService"]}");
 
-
+var app = builder.Build();
 
 PrepDb.PrepPopulation(app, app.Environment.IsProduction());
 
