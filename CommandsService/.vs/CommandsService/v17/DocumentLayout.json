@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{72353D60-4427-4847-815F-93A525ED28AF}|CommandsService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\commandsservice\\profiles\\commandsprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72353D60-4427-4847-815F-93A525ED28AF}|CommandsService.csproj|solutionrelative:profiles\\commandsprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72353D60-4427-4847-815F-93A525ED28AF}|CommandsService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\commandsservice\\dtos\\genericeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72353D60-4427-4847-815F-93A525ED28AF}|CommandsService.csproj|solutionrelative:dtos\\genericeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72353D60-4427-4847-815F-93A525ED28AF}|CommandsService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\commandsservice\\dtos\\platformpublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72353D60-4427-4847-815F-93A525ED28AF}|CommandsService.csproj|solutionrelative:dtos\\platformpublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72353D60-4427-4847-815F-93A525ED28AF}|CommandsService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\commandsservice\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72353D60-4427-4847-815F-93A525ED28AF}|CommandsService.csproj|solutionrelative:appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72353D60-4427-4847-815F-93A525ED28AF}|CommandsService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\commandsservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72353D60-4427-4847-815F-93A525ED28AF}|CommandsService.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72353D60-4427-4847-815F-93A525ED28AF}|CommandsService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\commandsservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72353D60-4427-4847-815F-93A525ED28AF}|CommandsService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{72353D60-4427-4847-815F-93A525ED28AF}|CommandsService.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72353D60-4427-4847-815F-93A525ED28AF}|CommandsService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\commandsservice\\dtos\\platformpublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72353D60-4427-4847-815F-93A525ED28AF}|CommandsService.csproj|solutionrelative:dtos\\platformpublisheddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{72353D60-4427-4847-815F-93A525ED28AF}|CommandsService.csproj|c:\\users\\gabri\\source\\repos\\gabopontes\\dotnetmicroservices\\commandsservice\\dtos\\commandreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72353D60-4427-4847-815F-93A525ED28AF}|CommandsService.csproj|solutionrelative:dtos\\commandreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,8 +78,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommandsProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Profiles\\CommandsProfiles.cs",
+              "RelativeDocumentMoniker": "Profiles\\CommandsProfiles.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Profiles\\CommandsProfiles.cs",
+              "RelativeToolTip": "Profiles\\CommandsProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:09:59.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericEventDto.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Dtos\\GenericEventDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\GenericEventDto.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Dtos\\GenericEventDto.cs",
+              "RelativeToolTip": "Dtos\\GenericEventDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T23:08:55.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "appsettings.Production.json",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\appsettings.Production.json",
+              "RelativeToolTip": "appsettings.Production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T23:04:46.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-27T23:03:08.085Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -74,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -87,20 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CommandsController.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Controllers\\CommandsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CommandsController.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Controllers\\CommandsController.cs",
-              "RelativeToolTip": "Controllers\\CommandsController.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAIwEIAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T22:36:28.791Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "PlatformsController.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Controllers\\PlatformsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PlatformsController.cs",
@@ -108,12 +163,11 @@
               "RelativeToolTip": "Controllers\\PlatformsController.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAkwBcAAABMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T22:34:10.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T22:34:10.142Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "PrepDb.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Data\\PrepDb.cs",
               "RelativeDocumentMoniker": "Data\\PrepDb.cs",
@@ -121,12 +175,11 @@
               "RelativeToolTip": "Data\\PrepDb.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAA5wB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T22:33:46.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T22:33:46.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ICommandRepo.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Data\\ICommandRepo.cs",
               "RelativeDocumentMoniker": "Data\\ICommandRepo.cs",
@@ -134,12 +187,11 @@
               "RelativeToolTip": "Data\\ICommandRepo.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAA5wAYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T22:33:07.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T22:33:07.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "CommandRepo.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Data\\CommandRepo.cs",
               "RelativeDocumentMoniker": "Data\\CommandRepo.cs",
@@ -147,12 +199,11 @@
               "RelativeToolTip": "Data\\CommandRepo.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAcwEEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T22:32:34.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T22:32:34.993Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -160,25 +211,11 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAA1wBIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T22:32:04.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T22:32:04.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlatformReadDto.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Dtos\\PlatformReadDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\PlatformReadDto.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Dtos\\PlatformReadDto.cs",
-              "RelativeToolTip": "Dtos\\PlatformReadDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T22:31:31.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "PlatformPublishedDto.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Dtos\\PlatformPublishedDto.cs",
               "RelativeDocumentMoniker": "Dtos\\PlatformPublishedDto.cs",
@@ -191,7 +228,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
+              "Title": "CommandsController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Controllers\\CommandsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommandsController.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Controllers\\CommandsController.cs",
+              "RelativeToolTip": "Controllers\\CommandsController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAIwEIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T22:36:28.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlatformReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Dtos\\PlatformReadDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\PlatformReadDto.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Dtos\\PlatformReadDto.cs",
+              "RelativeToolTip": "Dtos\\PlatformReadDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T22:31:31.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "CommandReadDto.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Dtos\\CommandReadDto.cs",
               "RelativeDocumentMoniker": "Dtos\\CommandReadDto.cs",
@@ -199,12 +260,11 @@
               "RelativeToolTip": "Dtos\\CommandReadDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T22:30:35.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T22:30:35.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "CommandCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Dtos\\CommandCreateDto.cs",
               "RelativeDocumentMoniker": "Dtos\\CommandCreateDto.cs",
@@ -212,12 +272,11 @@
               "RelativeToolTip": "Dtos\\CommandCreateDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T22:30:04.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T22:30:04.65Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Platform.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Models\\Platform.cs",
               "RelativeDocumentMoniker": "Models\\Platform.cs",
@@ -225,12 +284,11 @@
               "RelativeToolTip": "Models\\Platform.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T22:28:26.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T22:28:26.839Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Command.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\Gabopontes\\DotNetMicroservices\\CommandsService\\Models\\Command.cs",
               "RelativeDocumentMoniker": "Models\\Command.cs",
@@ -238,8 +296,7 @@
               "RelativeToolTip": "Models\\Command.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAQwBEAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T22:27:42.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T22:27:42.599Z"
             }
           ]
         }
